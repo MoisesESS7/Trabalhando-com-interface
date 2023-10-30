@@ -5,7 +5,7 @@ namespace TrabalhandoComInterface.Services
 {
     internal class RentalService
     {
-        public ITaxService _taxService;
+        private ITaxService _taxService;
         public double PricePerHour { get; private set; }
         public double PricePerDay { get; private set; }
 
