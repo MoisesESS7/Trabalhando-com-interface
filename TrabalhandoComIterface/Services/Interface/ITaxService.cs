@@ -1,4 +1,4 @@
-﻿namespace TrabalhandoComInterface.Entities.Services.Interface
+﻿namespace TrabalhandoComInterface.Services.Interface
 {
     internal interface ITaxService
     {

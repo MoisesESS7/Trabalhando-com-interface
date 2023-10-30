@@ -1,6 +1,7 @@
-﻿using TrabalhandoComInterface.Entities.Services.Interface;
+﻿using TrabalhandoComInterface.Entities;
+using TrabalhandoComInterface.Services.Interface;
 
-namespace TrabalhandoComInterface.Entities.Services
+namespace TrabalhandoComInterface.Services
 {
     internal class RentalService
     {

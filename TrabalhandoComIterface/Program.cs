@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 using TrabalhandoComInterface.Entities;
-using TrabalhandoComInterface.Entities.Services;
+using TrabalhandoComInterface.Services;
 
 Console.WriteLine("Enter rental data");
 Console.Write("Car model: ");
